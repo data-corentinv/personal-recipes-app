@@ -1,5 +1,9 @@
 # Macos
 .DS_Store
+
+# Build
+ipa-build
+
 # Logs
 logs
 *.log

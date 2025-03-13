@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "PersonalRecipes",
+    "name": "Mes Recettes",
     "slug": "cvasseur-recipes-app",
-    "description": "React Native Recipes App Demo. Download source code for free at https://www.instamobile.io . You can also check out the Swift version at https://www.iosapptemplates.com and the Kotlin version at https://www.instakotlin.com .",
+    "description": "A free and open-source app to have my favorite recipes at your fingertips! Simple, elegant, and practical.",
     "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

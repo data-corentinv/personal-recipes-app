@@ -19,7 +19,9 @@ export const Colors = {
   textLight: '#636E72',
   white: '#FFFFFF',
   shadow: '#000000',
-  border: '#E0E0E0'
+  border: '#E0E0E0',
+  categoryBg: '#E8F3F1',
+  timeIconBg: '#FFF5F5'
 };
 
 // 2 photos per width

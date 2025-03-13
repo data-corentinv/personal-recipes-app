@@ -131,3 +131,27 @@ For any questions or feedback, please contact:
 - [Expo](https://expo.dev/) for the amazing development platform
 - [React Native](https://reactnative.dev/) for the mobile framework
 - All contributors and users of the app
+
+## Android (macos)
+
+```bash
+# If you already have the SDK installed but Expo can't find it, set the environment variables manually:
+
+echo 'export ANDROID_HOME=$HOME/Library/Android/sdk' >> ~/.zshrc
+echo 'export PATH=$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools:$PATH' >> ~/.zshrc
+source ~/.zshrc
+
+echo $ANDROID_HOME
+adb devices
+# If adb is missing:
+brew install android-platform-tools
+
+# Then restart your terminal and run:
+adb start-server
+yarn expo start --android
+
+# Restart Metro Bundler & Expo
+# If the issue persists, try cleaning up Expo and Metro Bundler:
+expo doctor --fix-dependencies
+expo start --clear
+```

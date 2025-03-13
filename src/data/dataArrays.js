@@ -1,48 +1,40 @@
 export const categories = [
   {
     id: 0,
-    name: 'Pizza',
-    photo_url: 'https://amp.businessinsider.com/images/5c084bf7bde70f4ea53f0436-750-563.jpg'
+    name: 'Entrées',
+    photo_url: 'https://img-3.journaldesfemmes.fr/QSklP4463zLxb8QZkNlBX-bwuRE=/1240x/smart/ce000e509d6f47bea19ce36d6a676b99/ccmcms-jdf/40003697.jpg'
   },
   {
     id: 1,
-    name: 'Cuisine Mexicaine',
-    photo_url: 'https://ak1.picdn.com/shutterstock/videos/19498861/thumb/1.jpg'
+    name: 'Plats Principaux',
+    photo_url: 'https://www.1001recettes.net/wp-content/uploads/2025/02/1739491756-plat-principal-comment-choisir-ses-ingredients-bio-1024x585.jpg'
   },
   {
     id: 2,
-    name: 'Cuisine Italienne',
-    photo_url:
-    'https://images.unsplash.com/photo-1533777324565-a040eb52facd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80'
+    name: 'Cuisine du Monde',
+    photo_url: 'https://images.unsplash.com/photo-1533777324565-a040eb52facd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80'
   },
   {
     id: 3,
-    name: 'Cookies',
-    photo_url:
-    'https://www.telegraph.co.uk/content/dam/Travel/2019/January/france-food.jpg?imwidth=1400'
+    name: 'Desserts',
+    photo_url: 'https://www.telegraph.co.uk/content/dam/Travel/2019/January/france-food.jpg?imwidth=1400'
   },
   {
     id: 4,
     name: 'Boissons',
-    photo_url:
-    'https://images.unsplash.com/photo-1544145945-f90425340c7e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://images.unsplash.com/photo-1544145945-f90425340c7e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
   },
   {
-    id: 6,
+    id: 5,
     name: 'Apéritifs',
-    photo_url: 'https://www.hervecuisine.com/wp-content/uploads/2017/12/recette-aperitif-dinatoire-1024x683.jpg'
-  },
-  {
-    id: 7,
-    name: 'Plats Traditionnels',
-    photo_url: 'https://www.hervecuisine.com/wp-content/uploads/2018/10/plat-traditionnel-francais.jpg'
+    photo_url: 'https://huiles-et-olives.fr/wp-content/uploads/2023/12/huiles-et-olives-aperitif-de-fetes.jpg'
   }
 ];
 
 export const recipes = [
   {
     recipeId: 5,
-    categoryId: 1,
+    categoryId: 2,
     title: 'Fajitas au Poulet',
     photo_url:
       'https://tmbidigitalassetsazure.blob.core.windows.net/secure/RMS/attachments/37/1200x1200/Flavorful-Chicken-Fajitas_EXPS_GHBZ18_12540_B08_15_8b.jpg',
@@ -73,7 +65,7 @@ export const recipes = [
   },
   {
     recipeId: 15,
-    categoryId: 6,
+    categoryId: 5,
     title: 'Verrines Saumon, Mangue',
     photo_url: 'https://img.over-blog-kiwi.com/0/98/06/52/20140615/ob_1b0b1d_verrine-saumon-mangue3.jpg',
     photosArray: [
@@ -95,7 +87,7 @@ export const recipes = [
   },
   {
     recipeId: 9,
-    categoryId: 1,
+    categoryId: 0,
     title: 'Wraps au Saumon Fumé et Avocat',
     photo_url: 'https://sf1.viepratique.fr/wp-content/uploads/sites/2/2014/06/183762.jpg',
     photosArray: [
@@ -118,7 +110,7 @@ export const recipes = [
   },
   {
     recipeId: 10,
-    categoryId: 0,
+    categoryId: 5,
     title: 'Toast Magret, Chèvre, Miel',
     photo_url: 'https://i.pinimg.com/736x/15/1b/7c/151b7c9638b049688ed632410f0aa75e.jpg',
     photosArray: [
@@ -139,7 +131,7 @@ export const recipes = [
   },
   {
     recipeId: 11,
-    categoryId: 0,
+    categoryId: 5,
     title: 'Roulés au Chorizo',
     photo_url: 'https://media.ccmbg.com/tc/3982138654/308043',
     photosArray: [
@@ -157,7 +149,7 @@ export const recipes = [
   },
   {
     recipeId: 12,
-    categoryId: 0,
+    categoryId: 5,
     title: 'Rillettes de Thon',
     photo_url: 'https://i0.wp.com/www.programme-malin.com/wp-content/uploads/2022/07/Rillettes-de-thon-pour-bebe.jpg?fit=1920%2C1080&ssl=1',
     photosArray: [
@@ -177,7 +169,7 @@ export const recipes = [
   },
   {
     recipeId: 13,
-    categoryId: 0,
+    categoryId: 5,
     title: 'Petits Croissants au Saumon Fumé',
     photo_url: 'https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/3FA9A40A-BFBB-4D14-A814-116E42A16624/Derivates/e27b129b-760b-4a7c-806b-28d172855cd5.jpg',
     photosArray: [
@@ -219,7 +211,7 @@ export const recipes = [
   },
   {
     recipeId: 16,
-    categoryId: 7,
+    categoryId: 1,
     title: 'Chili con Carne',
     photo_url: 'https://assets.afcdn.com/recipe/20211222/126214_w1024h1024c1cx1124cy721cxt0cyt0cxb2119cyb1415.jpg',
     photosArray: [
@@ -272,7 +264,7 @@ export const recipes = [
   },
   {
     recipeId: 18,
-    categoryId: 7,
+    categoryId: 1,
     title: 'Tartiflette',
     photo_url: 'https://assets.afcdn.com/recipe/20160401/38946_w1024h768c1cx2690cy1793.webp',
     photosArray: [
@@ -294,7 +286,7 @@ export const recipes = [
   },
   {
     recipeId: 19,
-    categoryId: 7,
+    categoryId: 1,
     title: 'Endives au Jambon',
     photo_url: 'https://resize.elle.fr/original/var/plain_site/storage/images/elle-a-table/recettes-de-cuisine/endives-au-jambon-thermomix-3680660/86963081-1-fre-FR/Endives-au-jambon-Thermomix.jpg',
     photosArray: [
@@ -316,7 +308,7 @@ export const recipes = [
   },
   {
     recipeId: 20,
-    categoryId: 7,
+    categoryId: 1,
     title: 'Carbonnade Flamande',
     photo_url: 'https://lecoupdegrace.ca/app/uploads/2019/01/carbonnade-flamande-inpage.jpg',
     photosArray: [
@@ -340,7 +332,7 @@ export const recipes = [
   },
   {
     recipeId: 21,
-    categoryId: 2,
+    categoryId: 1,
     title: 'Lasagne aux Saint-Jacques',
     photo_url: 'https://resize.elle.fr/portrait_1280/var/plain_site/storage/images/elle-a-table/recettes-de-cuisine/lasagne-st-jacques-crevettes-graines-de-fenouil-et-huile-de-pistache-2030494/7463085-1-fre-FR/Lasagne-st-jacques-crevettes-graines-de-fenouil-et-huile-de-pistache.jpg',
     photosArray: [

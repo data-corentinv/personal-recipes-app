@@ -1,5 +1,9 @@
 # Personal Recipes App
 
+<div align="center">
+  <img src="assets/icon.png" alt="App Logo" width="120" height="120" style="border-radius: 20px"/>
+</div>
+
 A modern React Native mobile application for managing and discovering recipes. Built with Expo and featuring a beautiful, intuitive user interface.
 
 <div align="center">

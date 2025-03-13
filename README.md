@@ -2,8 +2,10 @@
 
 A modern React Native mobile application for managing and discovering recipes. Built with Expo and featuring a beautiful, intuitive user interface.
 
-![App Screenshot](screenshot/Iphone/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202025-03-12%20at%2021.33.49.png)
-![App Screenshot](screenshot/Ipad/Simulator%20Screenshot%20-%20iPad%20Air%2013-inch%20(M2)%20-%202025-03-12%20at%2023.18.25.png)
+<div style="display: flex; justify-content: center;">
+  <img src="screenshot/Iphone/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202025-03-12%20at%2021.33.49.png" width="400" alt="App Screenshot" />
+  <img src="screenshot/Ipad/Simulator%20Screenshot%20-%20iPad%20Air%2013-inch%20(M2)%20-%202025-03-12%20at%2023.18.25.png" width="400" alt="App Screenshot" />
+</div>
 
 ## Table of Contents
 - [Features](#features)

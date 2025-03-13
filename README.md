@@ -10,12 +10,12 @@ A modern React Native mobile application for managing and discovering recipes. B
   <table>
     <tr>
       <td align="center">
-        <img src="screenshot/Iphone/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202025-03-12%20at%2021.33.49.png" width="250" alt="iPhone App Screenshot"/>
+        <img src="screenshot/Iphone/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202025-03-13%20at%2021.29.30.png" width="250" alt="iPhone App Screenshot"/>
         <br>
         <em>iPhone View</em>
       </td>
       <td align="center">
-        <img src="screenshot/Ipad/Simulator%20Screenshot%20-%20iPad%20Air%2013-inch%20(M2)%20-%202025-03-12%20at%2023.18.25.png" width="300" alt="iPad App Screenshot"/>
+        <img src="screenshot/Ipad/Simulator%20Screenshot%20-%20iPad%20Air%2013-inch%20(M2)%20-%202025-03-13%20at%2021.32.05.png" width="300" alt="iPad App Screenshot"/>
         <br>
         <em>iPad View</em>
       </td>

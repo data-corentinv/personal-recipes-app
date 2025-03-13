@@ -577,22 +577,22 @@ export const ingredients = [
   {
     ingredientId: 65,
     name: 'Magret de canard fumé',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://www.le-caucase.com/wp-content/uploads/2025/02/55156_decouvrez-comment-preparer-facilement-votre-magret-de-canard-fume-et-seche-maison-1024x721.jpg'
   },
   {
     ingredientId: 66,
     name: 'Crottin de chavignol',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiY8VVHUM8AaC2Eahq9mJ4pX8cSKuIjj1A2dLDGqVwG7sbeSbOE0c7dlg&usqp=CAE&s'
   },
   {
     ingredientId: 67,
     name: 'Mélange 5 baies',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://www.epices.com/970-large_default/melange-5-baies.jpg'
   },
   {
     ingredientId: 68,
     name: 'Miel',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://im.qccdn.fr/node/conseils-miel-3-vertus-sante-prouvees-103256/thumbnail_800x480px-128414.jpg'
   },
   {
     ingredientId: 69,
@@ -602,22 +602,22 @@ export const ingredients = [
   {
     ingredientId: 70,
     name: 'Mini toasts ronds',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://iod.keplrstatic.com/api/ar_1,c_crop,g_north/c_fill,dpr_auto,f_auto,q_70,w_750/mon_marche/74830_Pain_de_mie_toast_rond_nature.jpg'
   },
   {
     ingredientId: 71,
     name: 'Chorizo',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://images.radio-canada.ca/q_auto,w_952/v1/alimentation/ingredient/4x3/saucisson-chorizo.jpg'
   },
   {
     ingredientId: 72,
     name: 'Gruyère râpé',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://www.andreclaude.fr/web/wp-content/uploads/2015/12/rap%C3%A9.jpg'
   },
   {
     ingredientId: 73,
     name: 'Pâte feuilletée',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://www.maspatule.com/blog/wp-content/uploads/2021/10/FEUILLETEE2-1440x1508.jpg'
   },
   {
     ingredientId: 74,

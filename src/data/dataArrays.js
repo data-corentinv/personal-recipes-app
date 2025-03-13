@@ -357,6 +357,181 @@ export const recipes = [
     ],
     description:
       '-- Dans une sauteuse, faites revenir l\'oignon à feu moyen dans l\'huile jusqu\'à ce qu\'il soit tendre et doré. Ajoutez l\'ail et le persil, et laissez cuire 1 minute.\n\n -- Augmentez légèrement le feu, puis incorporez les noix de saint Jacques. Lorsque l\'eau s\'est évaporée, ajoutez les crevettes. Assaisonnez et poursuivez la cuisson 2-3 minutes.\n\n -- Préparez la sauce béchamel.\n\n -- Faites cuire les pâtes à lasagne al dente.\n\n -- Préchauffez le four à 200°C.\n\n -- Montez les lasagnes en alternant pâtes, béchamel et mélange fruits de mer.\n\n -- Enfournez 15-20 minutes jusqu\'à obtention d\'une légère croûte dorée.\n\n -- Laissez reposer 10 minutes avant de servir.'
+  },
+  {
+    recipeId: 22,
+    categoryId: 3,
+    title: 'Tiramisu aux Framboises',
+    photo_url: 'https://media.ccmbg.com/tc/6004177366/311398/1613493243',
+    photosArray: [
+      'https://media.ccmbg.com/tc/6004177366/311398/1613493243'
+    ],
+    time: 75,
+    ingredients: [
+      [102, '500g'],
+      [103, '500g'],
+      [16, '4'],
+      [104, '150g'],
+      [105, '1 cuillère à café'],
+      [55, '50g'],
+      [106, '18']
+    ],
+    description:
+      '-- Dans une casserole, faites bouillir 100g de framboises avec le sucre en poudre et 15cl d\'eau durant 5 min.\n\n -- Séparez les jaunes d\'œufs des blancs, gardez 2 blancs.\n\n -- Battez les jaunes et le sucre glace, ajoutez la vanille et le mascarpone et fouettez.\n\n -- Montez les blancs en neige et incorporez-les à la crème.\n\n -- Répartissez la moitié de celle-ci dans 6 verres.\n\n -- Trempez les boudoirs dans le sirop de framboise, disposez-les sur la crème, ajoutez une couche de framboise, le reste de la crème et terminez par les framboises.\n\n -- 1h au réfrigérateur avant de servir.'
+  },
+  {
+    recipeId: 23,
+    categoryId: 3,
+    title: 'Gâteau au Chocolat',
+    photo_url: 'https://assets.afcdn.com/recipe/20190529/93153_w1024h768c1cx2736cy1824.webp',
+    photosArray: [
+      'https://assets.afcdn.com/recipe/20190529/93153_w1024h768c1cx2736cy1824.webp'
+    ],
+    time: 35,
+    ingredients: [
+      [107, '200g'],
+      [16, '4'],
+      [55, '150g'],
+      [12, '80g'],
+      [42, '200g']
+    ],
+    description:
+      '-- Faites fondre le chocolat, ajoutez le beurre, mélangez.\n\n -- Mélangez les œufs et le sucre puis la farine.\n\n -- Versez le chocolat fondu puis mélangez.\n\n -- Faites cuire pendant 25 min à 200°C.'
+  },
+  {
+    recipeId: 24,
+    categoryId: 3,
+    title: 'Cake aux Framboises',
+    photo_url: 'https://www.rustica.fr/images/cake-aux-framboises-shutterstock-l790-h526.jpg.webp',
+    photosArray: [
+      'https://www.rustica.fr/images/cake-aux-framboises-shutterstock-l790-h526.jpg.webp'
+    ],
+    time: 60,
+    ingredients: [
+      [16, '3'],
+      [42, '150g'],
+      [55, '150g'],
+      [108, '1 cuillère à café'],
+      [12, '190g'],
+      [82, '1/2 sachet'],
+      [1, '1/2 cuillère à café'],
+      [103, '200g'],
+      [109, '2 cuillères à soupe']
+    ],
+    description:
+      '-- Fouettez le beurre et le sucre en mousse.\n\n -- Ajoutez les oeufs, un par un, puis la vanille, tout en continuant de fouetter.\n\n -- Incorporez la farine tamisée avec la levure et le sel.\n\n -- Versez une mince de couche de pâte dans un moule à cake ; disposez des framboises dessus ; puis, remettez une couche de pâte et à nouveau des framboises ; procédez ainsi, jusqu\'à épuisement des ingrédients.\n\n -- Faites cuire votre cake aux framboises, 40 à 45 min, à 180°C.\n\n -- A la fin de la cuisson, sortez votre cake du four et arrosez-le de l\'alcool de framboise.\n\n -- Patientez 15 min, puis démoulez le cake aux framboises sur une grille et laissez-le refroidir entièrement.'
+  },
+  {
+    recipeId: 25,
+    categoryId: 3,
+    title: 'Cake Marbré Ultra Moelleux',
+    photo_url: 'https://rockthebretzel.com/wp-content/uploads/2020/03/Gateau-marbre47-scaled-2.jpg',
+    photosArray: [
+      'https://i.ytimg.com/vi/or_aqB-gp1o/sddefault.jpg',
+      'https://rockthebretzel.com/wp-content/uploads/2020/03/Gateau-marbre47-scaled-2.jpg'
+    ],
+    time: 45,
+    ingredients: [
+      [16, '5'],
+      [12, '125g'],
+      [42, '125g'],
+      [55, '125g'],
+      [110, '1 sachet'],
+      [107, '125g'],
+      [82, '1 sachet']
+    ],
+    description:
+      '-- Préchauffer le four à 180°C. Séparer les blancs des jaunes de 4 oeufs. Battre les jaunes avec le sucre jusqu\'à ce que le mélange blanchisse.\n\n -- Ajouter l\'oeuf entier au mélange, bien mélanger, puis incorporer le beurre fondu et la farine tamisée/le sachet de levure.\n\n -- Séparer la pâte dans deux récipients : -Dans l\'un, ajouter le sucre vanillé -Dans l\'autre ajouter le chocolat fondu au bain-marie.\n\n -- Monter les blancs en neige puis les incorporer équitablement aux 2 préparations. Il faut le faire délicatement sans casser les blancs de façon à ce que la préparation garde une texture mousseuse.\n\n -- Beurrer un moule à cake. Verser successivement une couche de pâte blanche, une couche de pâte au chocolat, une couche de pâte blanche, une couche de pate au chocolat, etc.\n\n -- Enfournez pour 35 minutes environ. Pour vérifier la cuisson, enfoncer la pointe d\'un couteau. Retirez le cake dès quelle ressort propre.\n\n -- Laissez refroidir, dégustez!'
+  },
+  {
+    recipeId: 26,
+    categoryId: 3,
+    title: 'Fraisier Express',
+    photo_url: 'https://www.vanessacuisine.fr/wp-content/uploads/2022/05/Fraisier-grande-verrine-500x500.jpg',
+    photosArray: [
+      'https://www.google.com/imgres?q=fraisier%20express&imgurl=https%3A%2F%2Fwww.cuisineactuelle.fr%2Fimgre%2Ffit%2F~1~cac~2021~01~29~fb020e02-0915-451b-ac4f-360213da3479.jpeg%2F650x365%2Fquality%2F80%2Fcrop-from%2Fcenter%2Ffraisier-express.jpeg&imgrefurl=https%3A%2F%2Fwww.cuisineactuelle.fr%2Frecettes%2Ffraisier-express-211059&docid=NETtmJjW3_Gf-M&tbnid=vhMycOKz46CMcM&vet=12ahUKEwj2i7KQ7oeMAxU-U6QEHR8RFJ0QM3oECHIQAA..i&w=650&h=365&hcb=2&itg=1&ved=2ahUKEwj2i7KQ7oeMAxU-U6QEHR8RFJ0QM3oECHIQAA',
+      'https://www.vanessacuisine.fr/wp-content/uploads/2022/05/Fraisier-grande-verrine-500x500.jpg'
+    ],
+    time: 240,
+    ingredients: [
+      [60, '250g'],
+      [111, '275g'],
+      [102, '250g'],
+      [16, '2'],
+      [55, '80g'],
+      [110, '1 sachet'],
+      [112, '8 cuillères à soupe'],
+      [113, '2 cuillères à soupe'],
+      [114, '2 brins']
+    ],
+    description:
+      '-- Mélangez le sirop et le rhum. Tapissez un plat carré ou rectangulaire de film étirable.\n\n -- Fouettez les jaunes d\'œufs, le sucre et le sucre vanillé avec un batteur électrique jusqu\'à ce que le mélange blanchisse, puis ajoutez le mascarpone en fouettant à petite vitesse.\n\n -- Passez les fraises sous l\'eau froide, égouttez-les, équeutez-les et coupez-les en deux.\n\n -- Trempez les biscuits 1 seconde dans le sirop au rhum, disposez une première couche dans le fond du plat, étalez une couche de crème, une couche de fraises en mettant le coté coupé à plat sur la crème, encore une couche de crème et terminez par une couche de biscuits, trempés de la même façon dans le sirop.\n\n -- Rabattez le film sur les biscuits, appuyez légèrement dessus pour les enfoncer dans la crème et mettez au frais 4 heures.'
+  },
+  {
+    recipeId: 27,
+    categoryId: 3,
+    title: 'Roulée à la Confiture',
+    photo_url: 'https://assets.afcdn.com/recipe/20160404/19895_w1024h1024c1cx1500cy1110.jpg',
+    photosArray: [
+      'https://assets.afcdn.com/recipe/20160404/19895_w1024h1024c1cx1500cy1110.jpg'
+    ],
+    time: 25,
+    ingredients: [
+      [16, '4'],
+      [55, '125g'],
+      [12, '125g'],
+      [110, '2 sachets'],
+      [82, '1 cuillère à café'],
+      [42, '15g'],
+      [115, '1 pot'],
+      [104, 'pour saupoudrer']
+    ],
+    description:
+      '-- Préchauffez le four à 210°C (thermostat 7).\n\n -- Cassez les oeufs, en séparant les blancs des jaunes.\n\n -- Dans un saladier, mélangez les jaunes avec le sucre.\n\n -- Ajoutez petit à petit la farine tamisée, le sucre vanillé et la levure.\n\n -- Battez les blancs en neige, puis incorporez-les au mélange précédent.\n\n -- Tapissez la plaque du four de papier alu bien beurré, et versez ensuite la pâte dessus.\n\n -- Enfournez pour 10 min de cuisson.\n\n -- Une fois la cuisson terminée, roulez le biscuit immédiatement avec le papier sulfurisé.\n\n -- Laissez refroidir, puis déroulez, et retirez le papier.\n\n -- Etalez la confiture sur la pâte, et roulez-le à nouveau, puis saupoudrez de sucre glace.'
+  },
+  {
+    recipeId: 28,
+    categoryId: 3,
+    title: 'Gaufres à l\'Ancienne',
+    photo_url: 'https://kabiloutte.fr/wp-content/uploads/2019/03/gaufre-kabiloutte.jpg',
+    photosArray: [
+      'https://kabiloutte.fr/wp-content/uploads/2019/03/gaufre-kabiloutte.jpg'
+    ],
+    time: 45,
+    ingredients: [
+      [12, '250g'],
+      [1, '1 cuillère à café'],
+      [16, '4'],
+      [42, '75g'],
+      [82, '1 sachet'],
+      [79, '150ml'],
+      [18, '150ml'],
+      [55, '60g'],
+      [110, '2 sachets'],
+      [0, '1 cuillère à soupe'],
+      [113, '2 cuillères à soupe']
+    ],
+    description:
+      '-- Mélangez la farine et le sel, faites un puit au centre et cassez-y les oeufs.\n\n -- Ajoutez le beurre fondu, le lait et l\'eau. Fouettez avec un fouet manuel ou électrique.\n\n -- Ajoutez le sucre, le sucre vanillé, l\'huile, la levure et éventuellement le rhum. Fouettez de nouveau. La pâte doit être liquide et fluide. Dans le cas contraire, rajoutez de l\'eau.\n\n -- Laissez reposer 30 minutes minimum.\n\n -- Versez la pâte dans les moules du gaufrier préalablement huilés.\n\n -- Faites cuire 3 minutes environ en retournant le gaufrier à mi-cuisson.\n\n -- Mangez ces gaufres saupoudrées de sucre glace, avec de la confiture, du nutella, du sirop d\'érable...'
+  },
+  {
+    recipeId: 29,
+    categoryId: 3,
+    title: 'Tarte aux Pommes de Chantal',
+    photo_url: 'https://fac.img.pmdstatic.net/fit/~1~fac~2021~04~07~2139ac35-a5f8-4cdc-93fe-279a3f19efc4.jpeg/970x545/quality/80/crop-from/center/la-tarte-aux-pommes-a-la-normande-de-ma-grand-mere.jpeg',
+    photosArray: [
+      'https://fac.img.pmdstatic.net/fit/~1~fac~2021~04~07~2139ac35-a5f8-4cdc-93fe-279a3f19efc4.jpeg/970x545/quality/80/crop-from/center/la-tarte-aux-pommes-a-la-normande-de-ma-grand-mere.jpeg'
+    ],
+    time: 45,
+    ingredients: [
+      [116, '5'],
+      [55, '80g'],
+      [42, '50g'],
+      [16, '2'],
+      [73, '1']
+    ],
+    description:
+      '-- Préchauffez le four à 180°C.\n\n -- Étalez la pâte feuilletée dans un moule à tarte.\n\n -- Épluchez et coupez les pommes en fines tranches.\n\n -- Disposez les pommes en rosace sur la pâte.\n\n -- Saupoudrez de sucre et parsemez de petits morceaux de beurre.\n\n -- Battez les œufs et versez sur les pommes.\n\n -- Enfournez pour 30-35 minutes jusqu\'à ce que la tarte soit dorée.'
   }
 ];
 
@@ -465,7 +640,7 @@ export const ingredients = [
   {
     ingredientId: 18,
     name: 'Eau',
-    photo_url: 'https://ak1.picdn.net/shutterstock/videos/829561/thumb/11.jpg'
+    photo_url: 'https://im.qccdn.fr/node/guide-d-achat-quelle-eau-boire-4855/thumbnail_800x480px-121326.jpg'
   },
   {
     ingredientId: 19,
@@ -706,7 +881,7 @@ export const ingredients = [
     ingredientId: 60,
     name: 'Fraises surgelées',
     photo_url:
-      'https://www.cascadianfarm.com/wp-content/uploads/2018/12/Strawberries_Main_0218.png'
+      'https://www.mgc-prevention.fr/wp-content/uploads/2014/12/fraise_165452462_web.jpg'
   },
   {
     ingredientId: 61,
@@ -913,5 +1088,80 @@ export const ingredients = [
     ingredientId: 101,
     name: 'Crevettes crues',
     photo_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgc_nj0Kc-gAFx3A2Hb4OgXckJQDrhkqmdfQ&s'
+  },
+  {
+    ingredientId: 102,
+    name: 'Mascarpone',
+    photo_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mascarpone_preparato_in_casa.jpg/1200px-Mascarpone_preparato_in_casa.jpg'
+  },
+  {
+    ingredientId: 103,
+    name: 'Framboises',
+    photo_url: 'https://img-3.journaldesfemmes.fr/BZs54b5UBRJQ8wcQ3EYGrM91ZTs=/1500x/smart/45768007f10e4e269b3f7901e339a1f4/ccmcms-jdf/25039199.jpg'
+  },
+  {
+    ingredientId: 104,
+    name: 'Sucre glacé',
+    photo_url: 'https://img-3.journaldesfemmes.fr/Xy1Xd0eqyAlU2wA4w8NMMsTPFaE=/1500x/smart/a1ca4d9f78744a93a3652c50ee45a440/ccmcms-jdf/16212262.jpg'
+  },
+  {
+    ingredientId: 105,
+    name: 'Vanille en poudre',
+    photo_url: 'https://www.academiedugout.fr/images/15898/1200-auto/vanille-en-poudre_000.jpg?poix=50&poiy=50'
+  },
+  {
+    ingredientId: 106,
+    name: 'Boudoirs',
+    photo_url: 'https://www.academiedugout.fr/images/15898/1200-auto/boudoirs_000.jpg?poix=50&poiy=50'
+  },
+  {
+    ingredientId: 107,
+    name: 'Chocolat noir',
+    photo_url: 'https://www.salon-du-chocolat.com/wp-content/uploads/2021/01/Sans-titre-40.png'
+  },
+  {
+    ingredientId: 108,
+    name: 'Vanille liquide',
+    photo_url: 'https://ileauxepices.com/blog/wp-content/uploads/2018/07/extrait-de-vanille.jpg'
+  },
+  {
+    ingredientId: 109,
+    name: 'Liqueur de framboise',
+    photo_url: 'https://lachanenche.com/cdn/shop/files/framboise-70_4256f2ad-5719-43cb-a59f-bf9072f4963b_1000x1000.jpg?v=1706265857'
+  },
+  {
+    ingredientId: 110,
+    name: 'Sucre vanillé',
+    photo_url: 'https://d1e3z2jco40k3v.cloudfront.net/-/media/vah18/produits/800x800/sucre_vanille_800.png?rev=721a12870bef4a948f7b5154d8c39792&vd=20230227T161541Z&extension=webp&hash=6C3F03937FDCE003C2567C639C0B481A'
+  },
+  {
+    ingredientId: 111,
+    name: 'Biscuits roses de Reims',
+    photo_url: 'https://assets.afcdn.com/recipe/20220224/129383_w1024h1024c1cx708cy1058cxt0cyt0cxb1416cyb2116.jpg'
+  },
+  {
+    ingredientId: 112,
+    name: 'Sirop de canne',
+    photo_url: 'https://www.cultures-sucre.com/Medias/article/extraction-sucre-de-canne-936x572@c141f6a7-a41f-4c91-98c0-14d12a5632a3.jpeg'
+  },
+  {
+    ingredientId: 113,
+    name: 'Rhum blanc',
+    photo_url: 'https://www.laroutedesrhums.com/1034-large_default/saint-james-rhum-blanc-50-100cl.jpg'
+  },
+  {
+    ingredientId: 114,
+    name: 'Menthe',
+    photo_url: 'https://soriavie.fr/wp-content/uploads/menthe-poivree.jpeg'
+  },
+  {
+    ingredientId: 115,
+    name: 'Confiture',
+    photo_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rEEI2A_uhRFOuiNUA3hS13Dyel4YEs7YLQ&s'
+  },
+  {
+    ingredientId: 116,
+    name: 'Pommes',
+    photo_url: 'https://www.nutriting.com/wp-content/uploads/2023/06/pomme-bienfaits-1024x1024.jpg'
   }
 ];

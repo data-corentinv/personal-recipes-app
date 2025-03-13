@@ -246,7 +246,7 @@ export const recipes = [
   {
     recipeId: 17,
     categoryId: 7,
-    title: 'Lasagne de Maman',
+    title: 'Lasagne de Chantal',
     photo_url: 'https://www.cuisineactuelle.fr/imgre/fit/~1~cac~2018~09~25~57db1393-fe3d-41f3-9a0d-77e29f57be79.jpeg/650x365/quality/80/crop-from/center/lasagnes-a-la-viande-de-boeuf-hachee.jpeg',
     photosArray: [
       'https://www.cuisineactuelle.fr/imgre/fit/~1~cac~2018~09~25~57db1393-fe3d-41f3-9a0d-77e29f57be79.jpeg/650x365/quality/80/crop-from/center/lasagnes-a-la-viande-de-boeuf-hachee.jpeg'

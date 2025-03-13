@@ -597,7 +597,7 @@ export const ingredients = [
   {
     ingredientId: 69,
     name: 'Fleur de sel',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://img-3.journaldesfemmes.fr/qayMWVT3iCcw-ftKNoQJqtD-3ms=/1500x/smart/0e1771205f2a46c087209779489231e5/ccmcms-jdf/15979053.jpg'
   },
   {
     ingredientId: 70,
@@ -622,22 +622,22 @@ export const ingredients = [
   {
     ingredientId: 74,
     name: 'Thon en boîte',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4zrq94lk_LbKtRsZ1bnL5qSX2SJwl5vC99g&s'
   },
   {
     ingredientId: 75,
     name: 'Échalote',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://images.ctfassets.net/b85ozb2q358o/4d97cfd39683dc05cecc74dec87fd74a2e8913b193eac392a56a2d6b0c714987/645a4692adea4d629244e5f0094a3c7d/image.png'
   },
   {
     ingredientId: 76,
     name: 'St Moret',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://dxm.dam.savencia.com/api/wedia/dam/transform/fix635d9eidk6z1kxmcn9p3ikctx5ipg1c1941a/savencia_2000_webp?t=crop&x=0.000&y=0.098&width=1.000&height=0.459&t=resize&width=2000'
   },
   {
     ingredientId: 77,
     name: 'Tabasco',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://countrystore.tabasco.eu/cdn/shop/products/tabasco_7-min_9f4a098c-43d2-46aa-a4df-c09ec7ab675b_900x.jpg?v=1625755828'
   },
   {
     ingredientId: 78,
@@ -647,21 +647,21 @@ export const ingredients = [
   {
     ingredientId: 79,
     name: 'Lait',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://www.nutriting.com/wp-content/uploads/2021/08/les-differents-types-de-lait-comment-les-choisir.jpg.webp'
   },
   {
     ingredientId: 80,
     name: 'Tomates séchées',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://upload.wikimedia.org/wikipedia/commons/2/23/Tomates_s%C3%A9ch%C3%A9es.jpg'
   },
   {
     ingredientId: 81,
     name: 'Feta',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmRVtL5lrO9EOv6EvLwqDsYECdVyPczGlhQ&s'
   },
   {
     ingredientId: 82,
     name: 'Levure chimique',
-    photo_url: 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'
+    photo_url: 'https://www.boulangeriemarionromain.fr/wp-content/uploads/2022/04/levure-chimique-alsa.jpg'
   }
 ];

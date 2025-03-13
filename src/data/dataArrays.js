@@ -449,7 +449,6 @@ export const recipes = [
     title: 'Fraisier Express',
     photo_url: 'https://www.vanessacuisine.fr/wp-content/uploads/2022/05/Fraisier-grande-verrine-500x500.jpg',
     photosArray: [
-      'https://www.google.com/imgres?q=fraisier%20express&imgurl=https%3A%2F%2Fwww.cuisineactuelle.fr%2Fimgre%2Ffit%2F~1~cac~2021~01~29~fb020e02-0915-451b-ac4f-360213da3479.jpeg%2F650x365%2Fquality%2F80%2Fcrop-from%2Fcenter%2Ffraisier-express.jpeg&imgrefurl=https%3A%2F%2Fwww.cuisineactuelle.fr%2Frecettes%2Ffraisier-express-211059&docid=NETtmJjW3_Gf-M&tbnid=vhMycOKz46CMcM&vet=12ahUKEwj2i7KQ7oeMAxU-U6QEHR8RFJ0QM3oECHIQAA..i&w=650&h=365&hcb=2&itg=1&ved=2ahUKEwj2i7KQ7oeMAxU-U6QEHR8RFJ0QM3oECHIQAA',
       'https://www.vanessacuisine.fr/wp-content/uploads/2022/05/Fraisier-grande-verrine-500x500.jpg'
     ],
     time: 240,

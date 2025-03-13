@@ -25,3 +25,8 @@ And scan the QR code in the Expo client app.
 - Beautiful UI Design Kit
 - Compatible with Expo
 - Highly modularized codebase
+
+## Contact
+
+For any questions or feedback, please contact:
+- vasseur.corentin@gmail.com

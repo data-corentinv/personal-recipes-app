@@ -3,7 +3,7 @@
     "name": "Mes Recettes",
     "slug": "cvasseur-recipes-app",
     "description": "A free and open-source app to have my favorite recipes at your fingertips! Simple, elegant, and practical.",
-    "version": "1.1.0",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",

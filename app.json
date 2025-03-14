@@ -2,8 +2,8 @@
   "expo": {
     "name": "Mes Recettes",
     "slug": "cvasseur-recipes-app",
-    "description": "A free and open-source app to have my favorite recipes at your fingertips! Simple, elegant, and practical.",
-    "version": "2.0.0",
+    "description": "A free app to share my favorite recipes. Simple, elegant, and practical.",
+    "version": "2.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",

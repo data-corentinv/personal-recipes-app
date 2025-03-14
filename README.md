@@ -48,7 +48,12 @@ A modern React Native mobile application for managing and discovering recipes. B
 - 📱 Cross-platform compatibility
 - 🔄 Real-time updates
 - 🎨 Modern UI/UX design
-- 📱 Responsive layout
+- �� Responsive layout
+- ⭐ Recipe starring system
+  - Star/unstar recipes with a single tap
+  - Access starred recipes from the drawer menu
+  - Visual feedback with filled/empty star icons
+  - Consistent starring state across all screens
 
 ## Prerequisites
 
@@ -132,7 +137,7 @@ For any questions or feedback, please contact:
 - [React Native](https://reactnative.dev/) for the mobile framework
 - All contributors and users of the app
 
-## Android (macos)
+## [WIP] Android (macos)
 
 ```bash
 # If you already have the SDK installed but Expo can't find it, set the environment variables manually:

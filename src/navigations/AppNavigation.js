@@ -10,6 +10,7 @@ import DrawerContainer from '../screens/DrawerContainer/DrawerContainer';
 import IngredientScreen from '../screens/Ingredient/IngredientScreen';
 import SearchScreen from '../screens/Search/SearchScreen';
 import IngredientsDetailsScreen from '../screens/IngredientsDetails/IngredientsDetailsScreen';
+import StarredRecipesScreen from '../screens/StarredRecipes/StarredRecipesScreen';
 
 const Stack = createStackNavigator();
 
@@ -30,6 +31,7 @@ function MainNavigator() {
       <Stack.Screen name='Ingredient' component={IngredientScreen} />
       <Stack.Screen name='Rechercher' component={SearchScreen} />
       <Stack.Screen name='IngredientsDetails' component={IngredientsDetailsScreen} />
+      <Stack.Screen name='StarredRecipes' component={StarredRecipesScreen} />
     </Stack.Navigator>
   );
 }

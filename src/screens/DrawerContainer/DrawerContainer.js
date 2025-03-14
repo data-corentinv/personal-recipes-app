@@ -33,6 +33,14 @@ export default function DrawerContainer(props) {
             navigation.closeDrawer();
           }}
         />
+        <MenuButton
+          title="Recettes Favoris"
+          source={require("../../../assets/icons/star.png")}
+          onPress={() => {
+            navigation.navigate("Main", { screen: "StarredRecipes" });
+            navigation.closeDrawer();
+          }}
+        />
       </View>
     </View>
   );

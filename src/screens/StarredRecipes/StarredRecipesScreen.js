@@ -1,26 +1,18 @@
-import React, { useLayoutEffect } from "react";
+import React from "react";
 import { FlatList, Text, View, TouchableHighlight, Image } from "react-native";
 import styles from "./styles";
 import { recipes } from "../../data/dataArrays";
-import MenuImage from "../../components/MenuImage/MenuImage";
 import { getCategoryName } from "../../data/MockDataAPI";
 import StarButton from "../../components/StarButton/StarButton";
+import { useStarredRecipes } from "../../context/StarredRecipesContext";
 
-export default function HomeScreen(props) {
+export default function StarredRecipesScreen(props) {
   const { navigation } = props;
+  const { starredRecipes } = useStarredRecipes();
 
-  useLayoutEffect(() => {
-    navigation.setOptions({
-      headerLeft: () => (
-        <MenuImage
-          onPress={() => {
-            navigation.openDrawer();
-          }}
-        />
-      ),
-      headerRight: () => <View />,
-    });
-  }, []);
+  const starredRecipesList = recipes.filter(recipe => 
+    starredRecipes.includes(recipe.recipeId)
+  );
 
   const onPressRecipe = (item) => {
     navigation.navigate("Recipe", { item });
@@ -38,8 +30,19 @@ export default function HomeScreen(props) {
   );
 
   return (
-    <View>
-      <FlatList vertical showsVerticalScrollIndicator={false} numColumns={2} data={recipes} renderItem={renderRecipes} keyExtractor={(item) => `${item.recipeId}`} />
+    <View style={styles.mainContainer}>
+      {starredRecipesList.length === 0 ? (
+        <Text style={styles.emptyText}>No starred recipes yet</Text>
+      ) : (
+        <FlatList
+          vertical
+          showsVerticalScrollIndicator={false}
+          numColumns={2}
+          data={starredRecipesList}
+          renderItem={renderRecipes}
+          keyExtractor={(item) => `${item.recipeId}`}
+        />
+      )}
     </View>
   );
-}
+} 

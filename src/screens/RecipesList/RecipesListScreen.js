@@ -2,6 +2,7 @@ import React, { useLayoutEffect } from "react";
 import { FlatList, Text, View, TouchableHighlight, Image } from "react-native";
 import styles from "./styles";
 import { getRecipes, getCategoryName } from "../../data/MockDataAPI";
+import StarButton from "../../components/StarButton/StarButton";
 
 export default function RecipesListScreen(props) {
   const { navigation, route } = props;
@@ -24,6 +25,7 @@ export default function RecipesListScreen(props) {
     <TouchableHighlight underlayColor="rgba(73,182,77,0.9)" onPress={() => onPressRecipe(item)}>
       <View style={styles.container}>
         <Image style={styles.photo} source={{ uri: item.photo_url }} />
+        <StarButton recipeId={item.recipeId} />
         <Text style={styles.title}>{item.title}</Text>
         <Text style={styles.category}>{getCategoryName(item.categoryId)}</Text>
       </View>

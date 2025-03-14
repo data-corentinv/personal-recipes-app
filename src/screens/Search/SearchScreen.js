@@ -5,6 +5,7 @@ import MenuImage from "../../components/MenuImage/MenuImage";
 import { getCategoryName, getRecipesByRecipeName, getRecipesByCategoryName, getRecipesByIngredientName } from "../../data/MockDataAPI";
 // import { TextInput } from "react-native-gesture-handler";
 import { TextInput } from "react-native";
+import StarButton from "../../components/StarButton/StarButton";
 
 
 export default function SearchScreen(props) {
@@ -64,6 +65,7 @@ export default function SearchScreen(props) {
     <TouchableHighlight underlayColor="rgba(73,182,77,0.9)" onPress={() => onPressRecipe(item)}>
       <View style={styles.container}>
         <Image style={styles.photo} source={{ uri: item.photo_url }} />
+        <StarButton recipeId={item.recipeId} />
         <Text style={styles.title}>{item.title}</Text>
         <Text style={styles.category}>{getCategoryName(item.categoryId)}</Text>
       </View>

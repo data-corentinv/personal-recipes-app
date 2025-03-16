@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "Mes Recettes",
+    "name": "Les Recettes de Juliette",
     "slug": "cvasseur-recipes-app",
     "description": "A free app to share my favorite recipes. Simple, elegant, and practical.",
-    "version": "2.1.0",
+    "version": "3.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
